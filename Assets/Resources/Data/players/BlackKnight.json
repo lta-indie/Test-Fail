@@ -1,0 +1,20 @@
+{
+    "data":[
+        {
+            "anim3d":{
+                "path":"Models/BlackKnight"
+            },
+            "rigid3dMove":{
+                "speed":200,
+                "gravityScale" : 100
+            },
+            "state":{
+                "name" : "Ground"
+            },
+            "target":{
+                
+            }
+        }
+    ]
+
+}

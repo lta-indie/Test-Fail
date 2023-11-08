@@ -1,0 +1,19 @@
+{
+    "name": "LTA.KeyCondition",
+    "rootNamespace": "",
+    "references": [
+        "LTA.Condition",
+        "LTA.Component",
+        "LTA.UI",
+        "LTA.Effect"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

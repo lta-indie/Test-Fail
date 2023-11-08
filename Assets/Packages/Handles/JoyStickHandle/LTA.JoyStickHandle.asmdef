@@ -1,0 +1,19 @@
+{
+    "name": "LTA.JoyStickHandle",
+    "rootNamespace": "",
+    "references": [
+        "LTA.JoyStick",
+        "LTA.Move",
+        "LTA.Component",
+        "LTA.Handle"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

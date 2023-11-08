@@ -1,0 +1,100 @@
+﻿{
+    "data" : {
+        "CountDownCondition" : {
+            "assemblyName" : "LTA.BasicCondition",
+            "type" : "CountDownCondition",
+            "typeInfo" : "CountDownConditionInfo",
+            "data" : {
+                "timeCountDown" : 0,
+                "fistValue" : false
+            }
+        },
+        "GlobalDirectionCondition" : {
+            "assemblyName" : "LTA.BasicCondition",
+            "type" : "GlobalDirectionCondition",
+            "typeInfo" : "GlobalDirectionConditionInfo",
+            "data" : {
+                "x" : {
+                    "typeCompare" : "",
+                    "valueCompare" : 0
+                },
+                "y" : {
+                    "typeCompare" : "",
+                    "valueCompare" : 0
+                },
+                "z" : {
+                    "typeCompare" : "",
+                    "valueCompare" : 0
+                },
+                "name" : ""
+            }
+        },
+        "GlobalMagnitudeCondition" : {
+            "assemblyName" : "LTA.BasicCondition",
+            "type" : "GlobalMagnitudeCondition",
+            "typeInfo" : "GlobalMagnitudeConditionInfo",
+            "data" : {
+                "typeCompare" : "",
+                "valueCompare" : 0,
+                "name" : ""
+            }
+        },
+        "RigibodyVelocityCondition" : {
+            "assemblyName" : "LTA.BasicCondition",
+            "type" : "RigibodyVelocityCondition",
+            "typeInfo" : "RigibodyVelocityConditionInfo",
+            "data" : {
+                "x" : {
+                    "typeCompare" : "",
+                    "valueCompare" : 0
+                },
+                "y" : {
+                    "typeCompare" : "",
+                    "valueCompare" : 0
+                },
+                "z" : {
+                    "typeCompare" : "",
+                    "valueCompare" : 0
+                }
+            }
+        },
+        "KeyCondition" : {
+            "assemblyName" : "LTA.KeyCondition",
+            "type" : "KeyActionCondition",
+            "typeInfo" : "KeyConditionInfo",
+            "data" : {
+                "key" : ""
+            }
+        },
+        "JoyStickDirectionCondition" : {
+            "assemblyName" : "LTA.JoyStickCondition",
+            "type" : "JoyStickDirectionCondition",
+            "typeInfo" : "JoyStickDirectionConditionInfo",
+            "data" : {
+                "x" : {
+                    "typeCompare" : "",
+                    "valueCompare" : 0
+                },
+                "y" : {
+                    "typeCompare" : "",
+                    "valueCompare" : 0
+                },
+                "z" : {
+                    "typeCompare" : "",
+                    "valueCompare" : 0
+                },
+                "typeJoyStick" : "Move"
+            }
+        },
+        "JoyStickMagnitudeCondition" : {
+            "assemblyName" : "LTA.JoyStickCondition",
+            "type" : "JoyStickMagnitudeCondition",
+            "typeInfo" : "JoyStickMagnitudeConditionInfo",
+            "data" : {
+                "typeCompare" : "",
+                "valueCompare" : 0,
+                "typeJoyStick" : "Move"
+            }
+        }
+    }
+}

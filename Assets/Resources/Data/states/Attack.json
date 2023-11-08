@@ -1,0 +1,18 @@
+{
+    "data":[
+        {
+            "conditions" : [
+              {
+                "componentName": "CountDownCondition",
+                "data" : {
+                  "timeCountDown" : 5,
+                  "fistValue" : false
+                }
+              }
+            ],
+            "handles" : [
+
+            ]
+        }
+    ]
+}

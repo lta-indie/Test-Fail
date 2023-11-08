@@ -1,0 +1,19 @@
+{
+    "name": "LTA.BasicHandle",
+    "rootNamespace": "",
+    "references": [
+        "LTA.Component",
+        "LTA.Base",
+        "LTA.Handle",
+        "LTA.Move"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

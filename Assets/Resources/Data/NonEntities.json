@@ -1,0 +1,36 @@
+﻿{
+    "data" : {
+        "filterTargets" : {
+            "assemblyName" : "LTA.Target",
+            "type" : "LTA.Target.FilterTargetController"
+        },
+        "actions" : {
+            "assemblyName" : "LTA.Action",
+            "type" : "ActionController"
+        },
+        "state" : {
+            "assemblyName" : "LTA.State",
+            "type" : "StatesController",
+            "assemblyNameInfo" : "LTA.NonEntity",
+            "typeInfo" : "LTA.NonEntity.NonEntityInfo",
+            "data" : {
+                "name" : "",
+                "level" : 1
+            }
+        },
+        "states" : {
+            "assemblyName" : "LTA.State",
+            "type" : "LTA.State.StateController",
+            "typeInfo" : "LTA.State.StateInfo",
+            "data" : {
+                "anim" : "",
+                "priority" : 0,
+                "isLoop" : true,
+                "nextState" : {
+                    "name" : "",
+                    "level" : 1
+                }
+            }
+        }
+    }
+}

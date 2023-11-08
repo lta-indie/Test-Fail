@@ -1,0 +1,21 @@
+{
+    "data":[
+        {
+            "conditions" : [
+              {
+                "componentName": "GlobalMagnitudeCondition",
+                "data" : {
+                    "typeCompare" : "Equal",
+                    "valueCompare" : 0,
+                    "name" : "PlayerInput"
+                }
+              }
+            ],
+            "handles" : [
+              {
+                "componentName": "StandHandle"
+              }
+            ]
+        }
+    ]
+}

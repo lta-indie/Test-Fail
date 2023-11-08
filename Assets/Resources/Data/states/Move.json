@@ -1,0 +1,27 @@
+{
+    "data":[
+        {
+            "conditions" : [
+              {
+                "componentName": "GlobalMagnitudeCondition",
+                "data" : {
+                    "typeCompare" : "Bigger",
+                    "valueCompare" : 0,
+                    "name" : "PlayerInput"
+                }
+              }
+            ],
+            "handles" : [
+              {
+                "componentName": "RotateFollowGlobalDirectionHandle",
+                "data" : {
+                    "name" : "PlayerInput"
+                }
+              },
+              {
+                "componentName": "MoveForward"
+              }
+            ]
+        }
+    ]
+}

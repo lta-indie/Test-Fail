@@ -1,0 +1,18 @@
+{
+    "name": "LTA.MoveHandle",
+    "rootNamespace": "",
+    "references": [
+        "LTA.Handle",
+        "LTA.Component",
+        "LTA.Move"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

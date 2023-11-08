@@ -1,0 +1,48 @@
+﻿{
+    "data" : {
+        "rigid3dMove" : {
+            "assemblyName" : "LTA.Move",
+            "type" : "RigibodyMoveController",
+            "typeInfo" : "RigibodyMoveInfo",
+            "data" : {
+                "speed" : 0
+            }
+        },
+        "stats" : {
+            "assemblyName" : "LTA.Value",
+            "type" : "StatsComponent",
+            "typeInfo" : "StatsComponentInfo",
+            "data" : {
+            }
+        },
+        "target" : {
+            "assemblyName" : "LTA.Target",
+            "type" : "LTA.Target.TargetController"
+        },
+        "sprite" : {
+            "assemblyName" : "LTA.Display",
+            "type" : "DisplaySpriteRender",
+            "typeInfo" : "LTA.Display.DisplayInfo",
+            "data" : {
+                "path" : ""
+            }
+        },
+        "prefab" : {
+            "assemblyName" : "LTA.Display",
+            "type" : "LTA.Display.DisplayController",
+            "typeInfo" : "LTA.Display.DisplayInfo",
+            "data" : {
+                "path" : ""
+            }
+        },
+        "anim3d" : {
+            "assemblyName" : "LTA.Animation",
+            "type" : "Anim3D",
+            "typeInfo" : "LTA.Animation.AnimationInfo",
+            "data" : {
+                "path" : "",
+                "speedAnim" : 1
+            }
+        }
+    }
+}

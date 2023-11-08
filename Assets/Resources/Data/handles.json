@@ -1,0 +1,43 @@
+﻿{
+    "data" : {
+        "MoveFollowJoyStickHandle" : {
+            "assemblyName" : "LTA.JoyStickHandle",
+            "type" : "MoveFollowJoyStickHandle",
+            "typeInfo" : "MoveFollowJoyStickHandleInfo",
+            "data" : {
+                "typeJoyStick" : "Move",
+                "typeMove" : "Move3D"
+            }
+        },
+        "RotateFollowJoyStickHandle" : {
+            "assemblyName" : "LTA.JoyStickHandle",
+            "type" : "RotateFollowJoyStickHandle",
+            "typeInfo" : "RotateFollowJoyStickHandleInfo",
+            "data" : {
+                "typeJoyStick" : "Move",
+                "typeMove" : "Move3D"
+            }
+        },
+        "MoveForward" : {
+            "assemblyName" : "LTA.MoveHandle",
+            "type" : "MoveForward"
+        },
+        "MoveUp" : {
+            "assemblyName" : "LTA.MoveHandle",
+            "type" : "MoveUp"
+        },
+        "StandHandle" : {
+            "assemblyName" : "LTA.MoveHandle",
+            "type" : "StandHandle"
+        },
+        "RotateFollowGlobalDirectionHandle" : {
+            "assemblyName" : "LTA.BasicHandle",
+            "type" : "RotateFollowGlobalDirectionHandle",
+            "typeInfo" : "RotateFollowGlobalDirectionHandleInfo",
+            "data" : {
+                "name" : "PlayerInput",
+                "typeMove" : "Move3D"
+            }
+        }
+    }
+}

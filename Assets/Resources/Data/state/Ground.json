@@ -1,0 +1,31 @@
+{
+    "data":[
+        {
+            "states":[
+                {
+                    "name":"Idle",
+                    "data" : {
+                        "anim" : "IdleNormal",
+                        "priority" : 0,
+                        "isLoop":"false"
+                    }
+                },
+                {
+                    "name":"Move",
+                    "data" : {
+                        "anim" : "Run",
+                        "priority" : 0
+                    }
+                },
+                {
+                    "name":"Attack",
+                    "data" : {
+                        "anim" : "Attack01",
+                        "priority" : 1,
+                        "isLoop":"false"
+                    }
+                }
+            ]
+        }
+    ]
+}
